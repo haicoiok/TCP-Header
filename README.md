@@ -96,4 +96,4 @@ Phần còn lại dài 64 bytes là data mà gói IP đang mang. Thông qua fiel
 
 Phân tích chi tiết về gói tin ICMP nằm ngoài phạm vi bài viết, đọc giả có thể tự mình tìm hiểu và phân tích ICMP header một cách tương tự.
 
-###End
+### End
