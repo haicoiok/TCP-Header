@@ -82,7 +82,7 @@ Giá trị 0x01 cho biết giao thức lớp trên là ICMP – hay gói tin man
 ##### Source IP address 32 bits.
 ![](https://user-images.githubusercontent.com/44948247/94227460-b9d6f780-ff24-11ea-9e47-eb1e18fe7cf9.jpg)
 4 bytes 0xc0a8011d lưu địa chỉ source IP của gói tin.
-Cụ thể, 0xc0a8011d chia thành 4 octecs | c8 | a9 | 01 | 1d | tương đương thập phân |192 | 168 | 1 | 29|.
+Cụ thể, 0xc0a8011d chia thành 4 octecs | c0 | a8 | 01 | 1d | tương đương thập phân |192 | 168 | 1 | 29|.
 Vậy gói tin này được tạo từ máy tính của tôi với source IP 192.168.1.29.
 Destination IP address 32 bits.
 ##### Destination IP address 32 bits.
